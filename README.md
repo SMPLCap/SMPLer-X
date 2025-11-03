@@ -17,6 +17,7 @@
 </div>
 
 ## News
+- [2025-10-21] [SMPLest-X](https://github.com/wqyin/SMPLest-X) accepted to TPAMI.
 - [2025-02-17] Pretrained models of [SMPLest-X](https://github.com/wqyin/SMPLest-X) available for download.
 - [2025-02-14] Brand new codebase of [SMPLest-X](https://github.com/wqyin/SMPLest-X) released for trainig, testing and inference.
 - [2025-01-20] [SMPLest-X](https://github.com/wqyin/SMPLest-X) released on [arXiv](https://arxiv.org/abs/2501.09782).
